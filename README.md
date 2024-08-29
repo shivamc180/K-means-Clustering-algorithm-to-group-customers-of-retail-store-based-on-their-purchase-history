@@ -1,5 +1,7 @@
 # Customer Segmentation Using K-means Clustering
 
+Github : https://github.com/shivamc180/K-means-Clustering-algorithm-to-group-customers-of-retail-store-based-on-their-purchase-history.git
+
 ## Introduction
 
 Customer segmentation is a crucial aspect of any business strategy. It involves dividing customers into distinct groups based on their purchasing behavior and demographics. This allows businesses to tailor their marketing efforts, improve customer satisfaction, and increase sales.
